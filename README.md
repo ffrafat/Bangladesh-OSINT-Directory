@@ -1,6 +1,6 @@
 <!-- Banner Image Placeholder -->
 <p align="center">
-  <img src="BD-OSINT Banner.jpg" alt="Bangladesh OSINT Directory" width="100%" style="border-radius: 8px;"/>
+  <img src="BD-OSINT Banner.jpg" alt="Bangladesh OSINT Directory" width="100%" />
 </p>
 
 # 🇧🇩 Bangladesh OSINT Directory  
